@@ -4,6 +4,8 @@ The repository is designed to accommodate beginners with little or no prior prog
 
 The tutorials are accompanied by concise explanations, code snippets, and examples, which aid in understanding the theory behind C programming concepts and their practical implementation. Hands-on exercises and coding challenges are integrated throughout the tutorials, allowing learners to actively engage with the material and reinforce their understanding.
 
+Udemy - https://www.udemy.com/course/c-programming-for-beginners-master-in-c-language/?referralCode=A71BF1E02B0A2F3D24B1
+
 A wide range of code examples is included in the repository, covering various aspects of C programming. These examples serve as valuable references, demonstrating how to implement different functionalities and providing real-world use cases.
 
 The repository encourages collaboration and community participation. Users can contribute their own tutorials, code examples, and improvements, fostering a supportive environment for learning and sharing ideas. Discussions and issue tracking enable learners to ask questions, seek assistance, and receive feedback on their code implementations.
